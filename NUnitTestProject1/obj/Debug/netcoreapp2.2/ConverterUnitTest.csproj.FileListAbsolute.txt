@@ -1,0 +1,14 @@
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterUnitTest.deps.json
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterUnitTest.runtimeconfig.json
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterUnitTest.runtimeconfig.dev.json
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterUnitTest.dll
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterAPI.dll
+C:\leaseplan\ConverterAPI\NUnitTestProject1\bin\Debug\netcoreapp2.2\ConverterAPI.pdb
+C:\leaseplan\ConverterAPI\NUnitTestProject1\obj\Debug\netcoreapp2.2\ConverterUnitTest.csprojAssemblyReference.cache
+C:\leaseplan\ConverterAPI\NUnitTestProject1\obj\Debug\netcoreapp2.2\ConverterUnitTest.csproj.CoreCompileInputs.cache
+C:\leaseplan\ConverterAPI\NUnitTestProject1\obj\Debug\netcoreapp2.2\ConverterUnitTest.AssemblyInfoInputs.cache
+C:\leaseplan\ConverterAPI\NUnitTestProject1\obj\Debug\netcoreapp2.2\ConverterUnitTest.AssemblyInfo.cs
+C:\leaseplan\ConverterAPI\NUnitTestProject1\obj\Debug\netcoreapp2.2\ConverterUnitTest.csproj.CopyComplete

@@ -1,0 +1,14 @@
+C:\leaseplan\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.2\ConverterAPI.deps.json
+C:\leaseplan\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.2\ConverterAPI.runtimeconfig.json
+C:\leaseplan\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.2\ConverterAPI.runtimeconfig.dev.json
+C:\leaseplan\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.2\ConverterAPI.dll
+C:\leaseplan\ConverterAPI\ConverterAPI\bin\Debug\netcoreapp2.2\ConverterAPI.pdb
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.csprojAssemblyReference.cache
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.csproj.CoreCompileInputs.cache
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.RazorAssemblyInfo.cache
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.RazorAssemblyInfo.cs
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.AssemblyInfoInputs.cache
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.AssemblyInfo.cs
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.RazorTargetAssemblyInfo.cache
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.dll
+C:\leaseplan\ConverterAPI\ConverterAPI\obj\Debug\netcoreapp2.2\ConverterAPI.pdb
